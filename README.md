@@ -39,7 +39,16 @@ This project applies advanced data mining and machine learning techniques to ana
 5. Shahani, N.M., et al. (2021). Developing an XGBoost Regression Model for Predicting Influences in Renewable Energy.  
 6. Baltazar, D. (2021). An Aspect Based Sentiment Analysis Approach to Airbnb Review Data.
 
----
+## Requirements
+Python 3.8+
+Jupyter Notebook or IDE
+Relevant Python packages: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, nltk, vaderSentiment
+Tools Used
+Python for data processing and modeling
+XGBoost for regression modeling
+VADER for sentiment analysis
+Data visualization with Matplotlib and Seaborn
+Jupyter Notebook for interactive development
 
 *Project by Binayak K C*  
 *November 2025*
